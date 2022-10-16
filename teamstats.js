@@ -55,7 +55,7 @@ const team = {
     }
 
 };
-team.addplayer('rosalind','p', 76);
+team.addplayer('rosa','p', 76);
 console.log(team.players);
 team.addGame('Titans', 100, 98);
 console.log(team.games);
